@@ -11,9 +11,9 @@ redirect_from:
 
 About Me
 ======
-The first person capable of photosynthesis:) Ignis!
+The first person capable of photosynthesis:)
 
-Welcome! I'm a first-year Ph.D. student in Computer Science at George Mason University, fortunately co-advised by [Prof. Bo Han](https://cs.gmu.edu/~bohan/) and [Prof. Songqing Chen](https://cs.gmu.edu/~sqchen/). Before that, I got my B.Eng. in Computer Science and Technology from Huazhong University of Science and Technology (HUST).
+Welcome! I'm a first-year *Ph.D.* student in Computer Science at George Mason University, fortunately co-advised by [Prof. Bo Han](https://cs.gmu.edu/~bohan/) and [Prof. Songqing Chen](https://cs.gmu.edu/~sqchen/). Before that, I got my *B.Eng.* in Computer Science and Technology from Huazhong University of Science and Technology (HUST).
 
 Please feel free to contact me for any questions, collaborations, or just connections.
 
@@ -34,12 +34,12 @@ Experiences
 * Spring 2025: Teaching Assistant
   * CS555: Computer Communication and Networking
   * Course Level: Graduate
-  * Duties included: Grading, holding office hours
+  * Duties included: Grading and holding office hours.
 
 * Fall 2024: Teaching Assistant
   * CS262: Intro to Low-level Programming (C Programming Language)
   * Course Level: Undergraduate
-  * Duties included: Leading labs, grading, holding office hours
+  * Duties included: Leading labs, grading, and holding office hours.
 
 * Summer 2023: Workshop in School of Computing at National University of Sinapore
   * Topic: Robotics and Deep Learning
@@ -47,21 +47,21 @@ Experiences
 
 Education
 ======
-* Ph.D. in Computer Science, George Mason University, Sept. 2024 - Now
-* B.Eng. in Computer Science and Technology, Huazhong University of Science and Technology, Sept. 2020 - June 2024
+* *Ph.D.* in Computer Science, George Mason University, Sept. 2024 - Now
+* *B.Eng.* in Computer Science and Technology, Huazhong University of Science and Technology, Sept. 2020 - June 2024
 
 Others
 ======
 * I like playing CRPG and platform-jumping games such as:
-  * Baldur's Gate 3
-  * Super Mario Odyssey
-  * Astro Bot
+  * *Baldur's Gate 3*, developed by Larian Studios
+  * *Super Mario Odyssey*, developed by Nintendo
+  * *Astro Bot*, developed by Team Asobi
 * My top-3 novels:
-  * One Hundred Years of Solitude, written by Garcia Marquez
-  * Love in the Time of Cholera, written by Garcia Marquez
-  * Brothers, written by Hua Yu
+  * *One Hundred Years of Solitude*, written by Garcia Marquez
+  * *Love in the Time of Cholera*, written by Garcia Marquez
+  * *Brothers*, written by Hua Yu
 * My top-3 movies:
-  * The Shawshank Redemption, directed by Frank Darabont
-  * Interstellar, directed by Christopher Nolan
-  * The Legend of 1900, directed by Giuseppe Tornatore
+  * *The Shawshank Redemption*, directed by Frank Darabont
+  * *Interstellar*, directed by Christopher Nolan
+  * *The Legend of 1900*, directed by Giuseppe Tornatore
 * I am a beginner in photography, with an APS-C camera Nikon Z50II.
