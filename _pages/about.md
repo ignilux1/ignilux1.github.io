@@ -13,7 +13,7 @@ About Me
 ======
 The first person capable of photosynthesis:)
 
-Welcome! I'm a first-year *Ph.D.* student in Computer Science at George Mason University, fortunately co-advised by [Prof. Bo Han](https://cs.gmu.edu/~bohan/) and [Prof. Songqing Chen](https://cs.gmu.edu/~sqchen/). Before that, I got my *B.Eng.* in Computer Science and Technology from Huazhong University of Science and Technology (HUST).
+Welcome! I'm a first-year *Ph.D.* student in Computer Science at George Mason University (GMU), fortunately co-advised by [Prof. Bo Han](https://cs.gmu.edu/~bohan/) and [Prof. Songqing Chen](https://cs.gmu.edu/~sqchen/). Before that, I got my *B.Eng.* in Computer Science and Technology from Huazhong University of Science and Technology (HUST).
 
 Please feel free to contact me for any questions, collaborations, or just connections.
 
