@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "T Yao"
-  pronouns         : "she/her"  
-  bio              : "Teaching Assistant and PhD Student"
-  location         : "Washington, D.C."
+  pronouns         : #"she/her"  
+  bio              : "PhD Student"
+  location         : "Washinton, D.C."
   employer         : "George Mason University"
   uri              : # URL
   email            : "tyao@gmu.edu" 

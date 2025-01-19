@@ -9,56 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+* Networked Systems and Content Delivery
+* VR/AR/MR and Spatial Computing
+* Security and Privacy
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, George Mason University (expected)
+* B.Eng. in Computer Science and Technology, Huazhong University of Science and Technology, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025: Teaching Assistant
+  * Course Name: Computer Communication and Networking
+  * Course Level: Graduate
+  * Department of Computer Science, George Mason University
+  * Duties included: Grading, holding office hours
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall 2024: Teaching Assistant
+  * Course Name: Intro to Low-level Programming (C Programming Language)
+  * Course Level: Undergraduate
+  * Department of Computer Science, George Mason University
+  * Duties included: Leading labs, grading, holding office hours
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
