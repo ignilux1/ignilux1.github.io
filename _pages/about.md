@@ -17,7 +17,7 @@ Research Interests
 
 Education
 ======
-* Ph.D in Computer Science, George Mason University (expected)
+* Ph.D. in Computer Science, George Mason University (expected)
 * B.Eng. in Computer Science and Technology, Huazhong University of Science and Technology, 2024
 
 Work experience
