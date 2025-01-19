@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "T Yao"
   pronouns         : #"she/her"  
-  bio              : "PhD Student"
+  bio              : "PhD Student in CS"
   location         : "Washinton, D.C."
-  employer         : "George Mason University"
+  employer         : #"George Mason University"
   uri              : # URL
   email            : "tyao@gmu.edu" 
 
