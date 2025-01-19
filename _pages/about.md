@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "T Yao"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+About Me
+======
+The first person capable of photosynthesis.
 
 Research Interests
 ======
