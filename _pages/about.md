@@ -64,4 +64,8 @@ Others
   * *The Shawshank Redemption*, directed by Frank Darabont
   * *Interstellar*, directed by Christopher Nolan
   * *The Legend of 1900*, directed by Giuseppe Tornatore
+* My top-3 TV series:
+  * *House of Cards*
+  * *The Boys*
+  * *Killing Eve*
 * I am a beginner in photography, with an APS-C camera Nikon Z50II.
