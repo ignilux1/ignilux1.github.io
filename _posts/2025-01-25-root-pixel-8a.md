@@ -72,5 +72,5 @@ Go to: Settings > System > Developer options > Enable ```OEM unlocking``` and ``
 Download app named ```Root Check``` (since Root Checker is not available in Android 14).
 
 ## 12. Troubles and Solutions
-1. If you want to restart the process or have no idea what is going wrong, go to [FactoryReset](https://developers.google.com/android/images#akita): Click on the corresponding ```Flash``` to factory reset your phone.
+1. If you want to restart the process or have no idea what is going wrong, go to [FactoryReset](https://developers.google.com/android/images#akita): Click on the corresponding ```Flash``` to factory reset your phone based on your build number on your phone.
 2. Remember it's ```init_boot.img```, rather than ```boot.img```.
