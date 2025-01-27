@@ -14,7 +14,7 @@ Google Pixel 8a (Android version 14) is rootable using Magisk by patching init_b
 ## 0. Preparation
 - ```adb``` is required for Android app development (see details in Section 3).
 - ```fastboot``` is needed to unlock the device bootloader and flash it with a new system image (see details in Section 3).
-- Download factory image from https://developers.google.com/android/images#akita: Click on corresponding ```Link``` based on your build number on your phone.
+- Download factory image from [Images](https://developers.google.com/android/images#akita): Click on corresponding ```Link``` based on your build number on your phone.
 - Extract ```init_boot.img``` from the downloaded zip file. Save and remember this file.
 
 ## 1. Enable Developer Options
@@ -24,7 +24,7 @@ Go to: Settings > About phone > Tap "Build number" 7 times to enable ```Develope
 Go to: Settings > System > Developer options > Enable ```OEM unlocking``` and ```USB debugging```.
 
 ## 3. Setup adb and fastboot
-1. Go to: https://developer.android.com/tools/releases/platform-tools, and download ```platform-tools``` (it's a folder named ```platform-tools```, including tools like adb, fastboot).
+1. Go to [Tools](https://developer.android.com/tools/releases/platform-tools), and download ```platform-tools``` (it's a folder named ```platform-tools```, including tools like adb, fastboot).
 2. Set environment variables (optional): 
    1. Open a terminal on Mac;
    2. Type ```sudo nano ~/.zshrc```;
@@ -72,5 +72,5 @@ Go to: Settings > System > Developer options > Enable ```OEM unlocking``` and ``
 Download app named ```Root Check``` (since Root Checker is not available in Android 14).
 
 ## 12. Troubles and Solutions
-1. If you want to restart the process or have no idea what is going wrong, go to https://developers.google.com/android/images#akita: Click on the corresponding ```Flash``` to factory reset your phone.
+1. If you want to restart the process or have no idea what is going wrong, go to [FactoryReset](https://developers.google.com/android/images#akita): Click on the corresponding ```Flash``` to factory reset your phone.
 2. Remember it's ```init_boot.img```, rather than ```boot.img```.
