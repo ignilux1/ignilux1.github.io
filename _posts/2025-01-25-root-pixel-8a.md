@@ -18,7 +18,7 @@ Google Pixel 8a (Android version 14) is rootable using Magisk by patching init_b
 - Extract ```init_boot.img``` from the downloaded zip file. Save and remember this file.
 
 ## 1. Enable Developer Options
-Go to: Settings > About phone > Tap "Build number" 7 times to enable ```Developer Options```.
+Go to: Settings > About phone > Tap on "Build number" for 7 times to enable ```Developer Options```.
 
 ## 2. Enable OEM Unlocking and USB Debugging
 Go to: Settings > System > Developer options > Enable ```OEM unlocking``` and ```USB debugging```.
