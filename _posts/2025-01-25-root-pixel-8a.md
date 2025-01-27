@@ -11,8 +11,6 @@ tags:
 
 Google Pixel 8a (Android version 14) is rootable using Magisk by patching init_boot.img and flashing the patched image file to Pixel 8a.
 
-[TOC]
-
 ## 0. Preparation
 - ```adb``` is required for Android app development (see details in Section 3).
 - ```fastboot``` is needed to unlock the device bootloader and flash it with a new system image (see details in Section 3).
