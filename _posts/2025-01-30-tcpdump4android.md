@@ -1,6 +1,6 @@
 ---
 title: 'tcpdump to Capture Packets on Android'
-date: 2025-01-25
+date: 2025-01-30
 permalink: /posts/2025-01-30-tcpdump4android/
 tags:
   - Android

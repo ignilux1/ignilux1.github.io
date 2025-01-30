@@ -44,31 +44,31 @@ Go to: Settings > System > Developer options > Enable ```OEM unlocking``` and ``
 2. Enable ```Usb-debugging```.
 3. ```OEM unlocking``` should state: Bootloader is already unlocked. If not, go back to previous steps to double check those details.
 
-## 6. Transfer init_boot.img from Mac to phone
+## 6. Transfer init_boot.img from Mac to Phone
 1. Open a terminal on Mac.
 2. ```adb devices``` to check if the phone is connected to the Mac.
 3. ```adb push <init_boot>.img /sdcard/Download/```.
 4. To check the transfer, use ```adb shell``` to access the directory of the phone, and then direct to ```/sdcard/Download/``` to check.
 5. ```exit``` to exit adb shell.
 
-## 7. Transfer the Magisk from the Mac to Pixel 8a and Installation
+## 7. Transfer The Magisk from Mac to Pixel 8a and Installation
 1. ```adb push /PATH/TO/YOUR/Magisk-xx.apk /sdcard/Download```.
 2. Find the transferred Magisk.xx.apk in the app Files and tap on it, it will be installed on the phone.
 
-## 8. Patch the init_boot.img
+## 8. Patch The init_boot.img
 1. Open the Magisk app.
 2. Select Magis install and ```Select and Patch a File```.
 3. Select the init_boot.img and then click on ```LET'S GO```. 
 
-## 9. Transfer the patched init_boot.img back to the Mac
+## 9. Transfer The patched init_boot.img Back to Mac
 ```adb pull <patched_init_boot_image>.img /PATH/ON/YOUR/MAC```
 
-## 10. Flash patched image
+## 10. Flash Patched Image
 1. ```adb reboot bootloader```.
 2. ```fastboot flash init_boot <patched_init_boot_image>.img``` (not ```fastboot flash boot <patched_init_boot_image>.img```).
 3. ```fastboot reboot```.
 
-## 11. Verify
+## 11. Verification
 Download app named ```Root Check``` (since Root Checker is not available in Android 14).
 
 ## 12. Troubles and Solutions
