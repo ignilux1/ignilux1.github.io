@@ -15,7 +15,6 @@ tags:
 
 ## 2. Push tcpdump to The Phone
 - ```adb push <path-to-downloaded-tcpdump> /data/local/tmp```
-- 
 
 ## 3. Capture All Packets on The Phone
 - ```abd shell```
