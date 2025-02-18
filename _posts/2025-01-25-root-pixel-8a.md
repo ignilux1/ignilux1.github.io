@@ -16,6 +16,7 @@ Google Pixel 8a (Android version 14) is rootable using Magisk by patching init_b
 - ```fastboot``` is needed to unlock the device bootloader and flash it with a new system image (see details in Section 3).
 - Download factory image from [Images](https://developers.google.com/android/images#akita): Click on corresponding ```Link``` based on your build number on your phone.
 - Extract ```init_boot.img``` from the downloaded zip file. Save and remember this file.
+- Download [Magisk-v27.0.apk](https://github.com/topjohnwu/Magisk/releases)
 
 ## 1. Enable Developer Options
 Go to: Settings > About phone > Tap on "Build number" for 7 times to enable ```Developer Options```.
