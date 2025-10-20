@@ -54,6 +54,15 @@ Experiences
   * Topic: Robotics and Deep Learning
   * Duties included: Developing an intelligent car with functions like self-navigation and image recognition based on Raspberry Pi.
 
+Participated Projects
+======
+* National Undergraduate Training Projects for Innovation and Entrepreneurship
+  * 2023-2024, ¥20,000, or around $2800 (As the member, rated *Excellent*).
+
+Patents
+======
+* [基于扩散模型的三维点云目标检测方法与装置](https://d.wanfangdata.com.cn/patent/CN202310843628.7) (Method of Diffusion-Based 3D Object Detection with Random Boxes) 
+
 Education
 ======
 * *Ph.D.* in Computer Science, George Mason University, USA, Sept. 2024 - Present
