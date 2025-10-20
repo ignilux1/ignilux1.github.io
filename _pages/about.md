@@ -13,7 +13,7 @@ About Me
 ======
 The first human capable of photosynthesis:)
 
-Welcome! I'm a first-year *Ph.D.* student in Computer Science at George Mason University (GMU), fortunately co-advised by [Prof. Bo Han](https://cs.gmu.edu/~bohan/) and [Prof. Songqing Chen](https://cs.gmu.edu/~sqchen/). Before that, I got my *B.Eng.* in Computer Science and Technology from Huazhong University of Science and Technology (HUST).
+Hi! I'm a second-year *Ph.D.* student in Computer Science at George Mason University (GMU), fortunately co-advised by [Prof. Bo Han](https://cs.gmu.edu/~bohan/) and [Prof. Songqing Chen](https://cs.gmu.edu/~sqchen/). Before that, I got my *B.Eng.* in Computer Science and Technology from Huazhong University of Science and Technology (HUST).
 
 Please feel free to contact me for any questions, collaborations, or just connections.
 
@@ -32,10 +32,18 @@ Publications
 
 Experiences
 ======
+* Fall 2025: Teaching Assistant
+  * CS555: Computer Communication and Networking
+  * Course Level: Graduate
+  * Duties included: Grading, holding office hours, and improving the existing assignments and projects.
+ 
+* Summer 2025: Research Assistant
+  * Advisors: Dr. Songqing Chen and Dr. Bo Han.
+
 * Spring 2025: Teaching Assistant
   * CS555: Computer Communication and Networking
   * Course Level: Graduate
-  * Duties included: Grading and holding office hours.
+  * Duties included: Grading, holding office hours, and improving the existing assignments and projects.
 
 * Fall 2024: Teaching Assistant
   * CS262: Intro to Low-level Programming (C Programming Language)
@@ -70,5 +78,6 @@ Others
   * *The Boys*
   * *Killing Eve*
 * I am a beginner in photography, with an APS-C camera Nikon Z50II.
+* I am also interested in birding and cycling, and tennis.
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=JXsJ00IHj_By_ngZdDCB60IVLuKJnBrLc9ccRGFJfFM&cl=ffffff&w=a"></script>
