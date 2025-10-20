@@ -57,7 +57,7 @@ Experiences
 Participated Projects
 ======
 * National Undergraduate Training Projects for Innovation and Entrepreneurship
-  * 2023-2024, ¥20,000, or around $2800 (As the member, rated *Excellent*).
+  * 2023-2024, awarded a ¥20,000 (or around $2800) funding (As the member, rated *Excellent*).
 
 Patents
 ======
