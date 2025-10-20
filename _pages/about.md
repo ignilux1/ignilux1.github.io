@@ -19,9 +19,10 @@ Please feel free to contact me for any questions, collaborations, or just connec
 
 Research Interests
 ======
-* Networked Systems and Content Delivery
-* VR/AR/MR and Spatial Computing
-* Security and Privacy
+My research focuses on building intelligent, privacy-preserving distributed systems that co-design systems, networking, and AI to enable efficient and trustworthy edge intelligence for emerging XR and AI applications.
+* Distributed and Networked Systems;
+* Edge and On-Device Intelligence;
+* Extended Reality (XR) Systems.
 
 Publications
 ======
