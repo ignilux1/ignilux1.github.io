@@ -11,7 +11,7 @@ redirect_from:
 
 About Me
 ======
-The first human capable of photosynthesis:)
+The first human capable of photosynthesis :)
 
 Hi! I'm a second-year *Ph.D.* student in Computer Science at George Mason University (GMU), fortunately co-advised by [Prof. Bo Han](https://cs.gmu.edu/~bohan/) and [Prof. Songqing Chen](https://cs.gmu.edu/~sqchen/). Before that, I got my *B.Eng.* in Computer Science and Technology from Huazhong University of Science and Technology (HUST).
 
