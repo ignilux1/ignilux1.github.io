@@ -78,6 +78,6 @@ Others
   * *The Boys*
   * *Killing Eve*
 * I am a beginner in photography, with an APS-C camera Nikon Z50II.
-* I am also interested in birding and cycling, and tennis.
+* I am also interested in birding, cycling, hiking, and tennis.
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=JXsJ00IHj_By_ngZdDCB60IVLuKJnBrLc9ccRGFJfFM&cl=ffffff&w=a"></script>
