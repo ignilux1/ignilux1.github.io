@@ -56,7 +56,7 @@ Experiences
 
 Education
 ======
-* *Ph.D.* in Computer Science, George Mason University, USA, Sept. 2024 - Now
+* *Ph.D.* in Computer Science, George Mason University, USA, Sept. 2024 - Present
 * *B.Eng.* in Computer Science and Technology, Huazhong University of Science and Technology, China, Sept. 2020 - June 2024
 
 Others
